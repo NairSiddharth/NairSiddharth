@@ -37,13 +37,13 @@
 
 ## 🚀 Featured Projects
 - [**Personal Website**](https://github.com/NairSiddharth/Personal-Website)  
-  A modern, responsive personal portfolio and resume site built with Next.js, TailwindCSS, and ShadCN.  
+  A modern, responsive personal portfolio and resume site built with Next.js, TailwindCSS, and ShadCN components. Link on Profile!
 
 - [**Scentinel**](https://github.com/NairSiddharth/Scentinel)  
-  A recommendation engine that suggests colognes based on user preferences and past wear history. 
+  A recommendation engine that suggests colognes based on user preferences and past wear history. Wrapped in a nice python gui built with NiceGUI, styled with TailWind. Executable in Repo!
 
 - [**sWARm**](https://github.com/NairSiddharth/sWARm)  
-  Who said that baseball predictive stats needed to be difficult? Originally started as a machine learning learning project, now I experiment with different algorithms and parameters to match industry-standard metrics like fWAR, bWAR, and WARP!.
+  Who said that baseball predictive stats needed to be difficult (me :( )? Originally started as a machine learning learning project, now I experiment with different algorithms and parameters to match industry-standard metrics like fWAR, bWAR, and WARP!.
 
 ---
 
@@ -58,7 +58,7 @@
 ## ✨ A Little About Me
 - 🔭 Currently working on **data-driven portfolio projects**  
 - 💡 Interested in **full-stack web development + data visualization**  
-- ⚡ Fun fact: I enjoy blending design with engineering to build clean, interactive user experiences  
+- ⚡ Fun fact: Ducks are free at your local lakes! 
 
 ---
 
@@ -75,5 +75,5 @@
 ---
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+  <i>“My code is written like I talk. Occasionally rambly, but it get's the job done.”</i>
 </p>
