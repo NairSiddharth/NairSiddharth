@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/NairSiddharth/NairSiddharth/blob/main/spiderverse.gif" alt="Banner" />
+  <img src="https://github.com/NairSiddharth/NairSiddharth/blob/main/assets/spiderverse.gif" alt="Banner" />
 </p>
 
 <p align="center">
@@ -10,7 +10,9 @@
   <img src="https://counter.kuber.studio/NairSiddharth/dark/count.svg" alt="Profile views"/>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NairSiddharth/NairSiddharth/main/assets/witching-hour-divider.svg" width="100%" height="5px" />
+</p>
 
 ## 🛠️ Tech Stack
 <p align="center">
@@ -34,7 +36,9 @@
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-240b36?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NairSiddharth/NairSiddharth/main/assets/witching-hour-divider.svg" width="100%" height="5px" />
+</p>
 
 ## 🚀 Featured Projects
 - [**Personal Website**](https://github.com/NairSiddharth/Personal-Website)  
@@ -49,7 +53,9 @@
 - [**PredicTrade**](https://github.com/NairSiddharth/PredicTrade)  
   A stock prediction project that explores the role of macroeconomic, sentiment, and financial factors using ensemble time-series models.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NairSiddharth/NairSiddharth/main/assets/witching-hour-divider.svg" width="100%" height="5px" />
+</p>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -57,7 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NairSiddharth&layout=compact&langs_count=6&hide_title=true&hide_border=false&bg_color=240b36&text_color=ffffff&icon_color=c31432" alt="Top Langs"/>
 </p>
 
----
+
 
 ## ✨ A Little About Me
 
@@ -65,8 +71,9 @@
 - 💡 Interested in full-stack development and the full ML pipeline, from feature selection to visualization and validation  
 - ⚡ Fun fact: The ducks really are free at local lakes  
 
----
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NairSiddharth/NairSiddharth/main/assets/witching-hour-divider.svg" width="100%" height="5px" />
+</p>
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/siddharthnair01">
