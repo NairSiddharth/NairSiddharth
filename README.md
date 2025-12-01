@@ -41,7 +41,7 @@
 </p>
 
 ## 🚀 Featured Projects
-- [**Personal Website**](https://github.com/NairSiddharth/Personal-Website)  
+- [**Personal Website**](https://github.com/NairSiddharth/Personal-Portfolio)  
   A portfolio and resume site built with Next.js and TailwindCSS, designed to showcase projects and experience.
 
 - [**Scentinel**](https://github.com/NairSiddharth/Scentinel)  
