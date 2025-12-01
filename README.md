@@ -53,6 +53,9 @@
 - [**PredicTrade**](https://github.com/NairSiddharth/PredicTrade)  
   A stock prediction project that explores the role of macroeconomic, sentiment, and financial factors using ensemble time-series models.
 
+- [**GridironMetrics**](https://github.com/NairSiddharth/GridironMetrics)  
+  A football analytics project that tries to grade skill position players through the use of various advanced and standard stats and rank them. Ranks them within their position, and cross-positionally.
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/NairSiddharth/NairSiddharth/main/assets/witching-hour-divider.svg" width="100%" height="5px" />
 </p>
